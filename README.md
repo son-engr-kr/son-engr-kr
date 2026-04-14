@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4FC3F7&lines=Hi%2C+I’m+Hyoungseo+Son!;PhD+Student+%40+Northeastern;Physics+Simulation+%7C+Deep+Learning;Building+the+bridge+between+physics+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4FC3F7&lines=%22Dreams+feel+real+while+we’re+in+them.%22+%E2%80%94+Inception+%2F+So+do+good+simulations.)](https://git.io/typing-svg)
 
 ### Hyoungseo
-
-> "Dreams feel real while we're in them." — *Inception* / So do good simulations.
 
 **[View Portfolio](https://hyoungseo.com)**
 
