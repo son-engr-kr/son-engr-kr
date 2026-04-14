@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4FC3F7&duration=8000&pause=100&lines=%22Dreams+feel+real+while+we’re+in+them.%22+%E2%80%94+Inception+%2F+So+do+good+simulations.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&vCenter=true&width=900&duration=4000&pause=3000&lines=%22Dreams+feel+real+while+we’re+in+them.%22+%E2%80%94+Inception+%2F+So+do+good+simulations." alt="Typing SVG" style="max-width: 100%; height: auto;" />
 
 ### Hyoungseo
 
