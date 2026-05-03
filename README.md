@@ -36,11 +36,16 @@
 ### 🎓 Education
 
 <!-- AUTO:EDUCATION:START -->
+<!-- Auto-generated from lib/profile.ts in son-engr-kr.github.io. Do not edit by hand. -->
+- **Ph.D.** Mechanical Engineering — Northeastern University, Boston *(2024 – present, GPA 3.96/4.0)*
+- **B.S.** Mechanical Engineering (CS Minor) — Kyungpook National University *(Summa Cum Laude, 1st / 152)*
 <!-- AUTO:EDUCATION:END -->
 
 ### 🔬 Research Interests
 
 <!-- AUTO:RESEARCH:START -->
+<!-- Auto-generated from lib/profile.ts in son-engr-kr.github.io. Do not edit by hand. -->
+Physics Simulation · GPU-Accelerated Simulation · Reinforcement Learning · Deep Learning · Differentiable Simulation
 <!-- AUTO:RESEARCH:END -->
 
 <p>&nbsp;</p>
@@ -54,16 +59,33 @@
 ### 🏆 Highlights
 
 <!-- AUTO:AWARDS:START -->
+<!-- Auto-generated from lib/profile.ts in son-engr-kr.github.io. Do not edit by hand. -->
+- **HackPrinceton Spring 2026** — Knot API track, 1st Place
+- **Precision Neuroscience BCI Hackathon** — 1st Place ($1,000)
+- **R-BIZ Challenge** — Presidential Award (2019)
+- **National Scholarship for Science and Engineering** — Full Tuition
 <!-- AUTO:AWARDS:END -->
 
 ### 🚀 Featured Projects
 
 <!-- AUTO:PROJECTS:START -->
+<!-- Auto-generated from lib/projects.ts in son-engr-kr.github.io. Do not edit by hand. -->
+| Project | Description |
+|---------|-------------|
+| [**TEKKAL**](https://github.com/son-engr-kr/tekkal) | Local-first slide platform where every drag-and-drop maps to structured code. ([Live](https://tekkal.dev)) |
+| [**Flanner**](https://github.com/son-engr-kr/hackprinceton-beta) | Turns six months of DoorDash / Uber Eats orders into a weekly home-cooked meal plan, then auto-fills your Amazon Fresh cart. ([Live](https://flanner.health)) |
+| [**MotZip**](https://github.com/son-engr-kr/next-gen-hacks-beta) | Restaurants by voice. Speak what you want, watch a 3D map filter to candidates, then have an AI agent call every restaurant in parallel. ([Live](https://motzip.vercel.app)) |
+| [**BCI Neural Visualization System**](https://github.com/son-engr-kr/H2W-brainstorm-track2) | Real-time guidance for surgeons placing 1024-channel ECoG arrays. |
+| [**Booky**](https://github.com/son-engr-kr/booky-yhack) | Social reading platform with story-branching choices and an AI-generated solar system. |
 <!-- AUTO:PROJECTS:END -->
 
 ### 💼 Industry Experience
 
 <!-- AUTO:INDUSTRY:START -->
+<!-- Auto-generated from lib/profile.ts in son-engr-kr.github.io. Do not edit by hand. -->
+**Gachisoft Inc.** — Software Research Engineer (2021 – 2024)
+- Logistics Digital Twin System deployed at two Korea Post sites
+- 3D vision system for Coupang; PLC integration for real-time control (C++, OpenCV)
 <!-- AUTO:INDUSTRY:END -->
 
 <p>&nbsp;</p>
