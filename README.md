@@ -77,6 +77,7 @@ Physics Simulation · GPU-Accelerated Simulation · Reinforcement Learning · De
 | [**Flanner**](https://github.com/son-engr-kr/hackprinceton-beta) | Turns six months of DoorDash / Uber Eats orders into a weekly home-cooked meal plan, then auto-fills your Amazon Fresh cart. ([Live](https://flanner.health)) |
 | [**MotZip**](https://github.com/son-engr-kr/next-gen-hacks-beta) | Restaurants by voice. Speak what you want, watch a 3D map filter to candidates, then have an AI agent call every restaurant in parallel. ([Live](https://motzip.vercel.app)) |
 | [**BCI Neural Visualization System**](https://github.com/son-engr-kr/H2W-brainstorm-track2) | Real-time guidance for surgeons placing 1024-channel ECoG arrays. |
+| [**Zerve × ODSC AI Datathon**](https://github.com/anmemol-beta/zerve-odsc-ai-datathon) | Production-style MLOps pipeline for subscription upgrade prediction — 32 blocks, 5-model ensemble, weekly drift detection, all built inside the Zerve canvas. ([Live](https://anmemol-beta.github.io/zerve-odsc-ai-datathon/)) |
 | [**Booky**](https://github.com/son-engr-kr/booky-yhack) | Social reading platform with story-branching choices and an AI-generated solar system. |
 <!-- AUTO:PROJECTS:END -->
 
