@@ -61,8 +61,9 @@ Physics Simulation · GPU-Accelerated Simulation · Reinforcement Learning · De
 
 <!-- AUTO:AWARDS:START -->
 <!-- Auto-generated from lib/profile.ts in son-engr-kr.github.io. Do not edit by hand. -->
-- **HackPrinceton Spring 2026** — Knot API track, 1st Place
+- **HackPrinceton Spring 2026** — Knot API track, 1st Place ($500)
 - **Precision Neuroscience BCI Hackathon** — 1st Place ($1,000)
+- **Remy Hackathon 2026** — 2nd Place ($1,000)
 - **R-BIZ Challenge** — Presidential Award (2019)
 - **National Scholarship for Science and Engineering** — Full Tuition
 <!-- AUTO:AWARDS:END -->
@@ -77,6 +78,7 @@ Physics Simulation · GPU-Accelerated Simulation · Reinforcement Learning · De
 | [**Flanner**](https://github.com/son-engr-kr/hackprinceton-beta) | Turns six months of DoorDash / Uber Eats orders into a weekly home-cooked meal plan, then auto-fills your Amazon Fresh cart. ([Live](https://flanner.health)) |
 | [**MotZip**](https://github.com/son-engr-kr/next-gen-hacks-beta) | Restaurants by voice. Speak what you want, watch a 3D map filter to candidates, then have an AI agent call every restaurant in parallel. ([Live](https://motzip.vercel.app)) |
 | [**BCI Neural Visualization System**](https://github.com/son-engr-kr/H2W-brainstorm-track2) | Real-time guidance for surgeons placing 1024-channel ECoG arrays. |
+| **Trippo** | Group travel chat that becomes a film when the trip ends — chat is the planner, photos cluster by EXIF + GPS, one-tap recap reel. ([Live](https://trippo.msagent.ai/)) |
 | [**Zerve × ODSC AI Datathon**](https://github.com/anmemol-beta/zerve-odsc-ai-datathon) | Production-style MLOps pipeline for subscription upgrade prediction — 32 blocks, 5-model ensemble, weekly drift detection, all built inside the Zerve canvas. ([Live](https://anmemol-beta.github.io/zerve-odsc-ai-datathon/)) |
 | [**Booky**](https://github.com/son-engr-kr/booky-yhack) | Social reading platform with story-branching choices and an AI-generated solar system. |
 <!-- AUTO:PROJECTS:END -->
