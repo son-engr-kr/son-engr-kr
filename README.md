@@ -64,7 +64,8 @@ Physics Simulation · GPU-Accelerated Simulation · Reinforcement Learning · De
 - **HackPrinceton Spring 2026** — Knot API track, 1st Place ($500)
 - **Precision Neuroscience BCI Hackathon** — 1st Place ($1,000)
 - **Remy Hackathon 2026** — 2nd Place ($1,000)
-- **R-BIZ Challenge** — Presidential Award (2019)
+- **LikeLion US 2025 Ideathon** — Winner (Top 3)
+- **[R-BIZ Challenge](https://knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=28&btin.bbs_cde=28&btin.doc_no=1319988&btin.appl_no=000000&btin.page=1&btin.search_type=&btin.search_text=&popupDeco=false&btin.note_div=row&menu_idx=215)** — Presidential Award, ₩4,000,000 (2019)
 - **National Scholarship for Science and Engineering** — Full Tuition
 <!-- AUTO:AWARDS:END -->
 
@@ -83,6 +84,8 @@ Physics Simulation · GPU-Accelerated Simulation · Reinforcement Learning · De
 | [**Zerve × ODSC AI Datathon**](https://github.com/anmemol-beta/zerve-odsc-ai-datathon) | Zerve × ODSC AI Datathon | Production-style MLOps pipeline for subscription upgrade prediction — 32 blocks, 5-model ensemble, weekly drift detection, all built inside the Zerve canvas. ([Live](https://anmemol-beta.github.io/zerve-odsc-ai-datathon/)) |
 | [**Booky**](https://github.com/son-engr-kr/booky-yhack) | YHack 2026 — Finalist | Social reading platform with story-branching choices and an AI-generated solar system. |
 | [**SegRec**](https://github.com/son-engr-kr/beta-twelvelabs-hackathon) | Video Understanding AI Hackathon | YouTube recommends whole videos; SegRec recommends specific segments — click a chapter in one video and discover similar moments across your entire library. |
+| [**CoHabitAI**](https://github.com/son-engr-kr/Likelion2025Ideaton-page) | LikeLion US 2025 Ideathon — Winner | Whose turn was it to clean? Who still owes rent? CoHabitAI is an AI manager that coordinates the friction points of shared living — fairly. ([Live](https://hyoungseo.com/Likelion2025Ideaton-page/)) |
+| [**EchoBoard**](https://github.com/son-engr-kr/auto-ad-virtualcam) | Dream AI Hackathon | A virtual camera that listens to your video call and turns the background behind you into an ad that matches what you're talking about. ([Live](https://hyoungseo.com/auto-ad-virtualcam/)) |
 <!-- AUTO:PROJECTS:END -->
 
 ### 💼 Industry Experience
