@@ -75,6 +75,7 @@ Physics Simulation · GPU-Accelerated Simulation · Reinforcement Learning · De
 | Project | Description |
 |---------|-------------|
 | [**TEKKAL**](https://github.com/son-engr-kr/tekkal) | Local-first slide platform where every drag-and-drop maps to structured code. ([Live](https://tekkal.dev)) |
+| [**AsyncPair**](https://github.com/anmemol-beta/ibm-bob-hackathon) | Async pair programming across time zones — capture context at every git commit, hand it off, and let an AI stand in for your teammate while they sleep. ([Live](https://ibm-bob-hackathon-two.vercel.app)) |
 | [**Flanner**](https://github.com/son-engr-kr/hackprinceton-beta) | Turns six months of DoorDash / Uber Eats orders into a weekly home-cooked meal plan, then auto-fills your Amazon Fresh cart. ([Live](https://flanner.health)) |
 | [**MotZip**](https://github.com/son-engr-kr/next-gen-hacks-beta) | Restaurants by voice. Speak what you want, watch a 3D map filter to candidates, then have an AI agent call every restaurant in parallel. ([Live](https://motzip.vercel.app)) |
 | [**BCI Neural Visualization System**](https://github.com/son-engr-kr/H2W-brainstorm-track2) | Real-time guidance for surgeons placing 1024-channel ECoG arrays. |
