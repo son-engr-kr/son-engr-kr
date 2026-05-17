@@ -82,6 +82,7 @@ Physics Simulation · GPU-Accelerated Simulation · Reinforcement Learning · De
 | **Trippo** | Remy Hackathon 2026 — 2nd Place ($1,000) | Group travel chat that becomes a film when the trip ends — chat is the planner, photos cluster by EXIF + GPS, one-tap recap reel. ([Live](https://trippo.msagent.ai/)) |
 | [**Zerve × ODSC AI Datathon**](https://github.com/anmemol-beta/zerve-odsc-ai-datathon) | Zerve × ODSC AI Datathon | Production-style MLOps pipeline for subscription upgrade prediction — 32 blocks, 5-model ensemble, weekly drift detection, all built inside the Zerve canvas. ([Live](https://anmemol-beta.github.io/zerve-odsc-ai-datathon/)) |
 | [**Booky**](https://github.com/son-engr-kr/booky-yhack) | YHack 2026 — Finalist | Social reading platform with story-branching choices and an AI-generated solar system. |
+| [**SegRec**](https://github.com/son-engr-kr/beta-twelvelabs-hackathon) | Video Understanding AI Hackathon | YouTube recommends whole videos; SegRec recommends specific segments — click a chapter in one video and discover similar moments across your entire library. |
 <!-- AUTO:PROJECTS:END -->
 
 ### 💼 Industry Experience
